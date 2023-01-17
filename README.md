@@ -8,3 +8,7 @@
   <li>WordPressサイトデザインリファレンス　https://wpdocs.osdn.jp/WordPress_%E3%82%B5%E3%82%A4%E3%83%88%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3_%E3%83%AA%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9</li>
     <li>Web技術　https://developer.mozilla.org/ja/docs/Web</li>
 </ul>
+
+
+<h2>HTML5 テンプレート</h2>
+<p>https://github.com/fukakusa/html5-template</p>
