@@ -11,4 +11,4 @@
 
 
 <h2>HTML5 テンプレート</h2>
-<p>https://github.com/fukakusa/html5-template</p>
+
